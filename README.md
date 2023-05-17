@@ -3,5 +3,5 @@
 
 
 ## Reference
-https://github.com/facebookresearch/SlowFast
-https://towardsdatascience.com/slowfast-explained-dual-mode-cnn-for-video-understanding-8bf639960256
+- https://github.com/facebookresearch/SlowFast
+- https://towardsdatascience.com/slowfast-explained-dual-mode-cnn-for-video-understanding-8bf639960256
