@@ -13,6 +13,11 @@
 -	Both paths performs 3D convolution operation 
 -	Github: https://github.com/facebookresearch/SlowFast
 
+## Demonstration
+
+![Logo](https://github.com/Zeeshann1/SlowFast-Network-Video-Classification-Detection/blob/main/demovid.png)
+
+
 ## Backbone model architectures:
 -	SlowFast
 -	Slow
@@ -113,3 +118,4 @@ git clone https://github.com/facebookresearch/SlowFast.git
 - https://colab.research.google.com/drive/1NKx1RH8sZzJQ88T3_dTDbWKIZjSFOlYF
 - https://colab.research.google.com/drive/1NKx1RH8sZzJQ88T3_dTDbWKIZjSFOlYF
 -  https://www.deepmind.com/open-source/kinetics
+-  https://www.youtube.com/watch?v=J3xIp0x_6jA
