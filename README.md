@@ -78,7 +78,7 @@ git clone https://github.com/facebookresearch/SlowFast.git
 
 ## X3D Model by FAIR PyTorchVideo
 -	X3D model architectures are based on pre-trained on the Kinetics dataset
-![Logo](https://github.com/Zeeshann1/SlowFast-Network-Video-Classification-Detection/blob/main/2.png)
+![Logo](https://github.com/Zeeshann1/SlowFast-Network-Video-Classification-Detection/blob/main/3.png)
 - Reference Paper: Christoph Feichtenhofer, “X3D: Expanding Architectures for Efficient Video Recognition.” https://arxiv.org/abs/2004.04730
   
 #### X3D: Expanding Architectures for Efficient Video Recognition
